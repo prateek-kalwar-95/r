@@ -12,7 +12,7 @@ Each solution includes source code and an interactive visualization hosted on Gi
   https://prateek-kalwar-95.github.io/flip_coin/
 
 - **Source Code**:  
-  https://github.com/prateek-kalwar-95/flip_coin
+  https://github.com/prateek-kalwar-95/flip_coin/blob/main/flipACoin.R
 
 ---
 
