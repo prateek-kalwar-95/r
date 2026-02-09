@@ -21,12 +21,12 @@ Each solution includes source code and an interactive visualization hosted on Gi
 ---
 
 - World Bank Data Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/animint2-worldbank/)
-- 
+  
 - Source Code : [Code](https://github.com/prateek-kalwar-95/animint2-worldbank)
 
 ---
 - Least Square Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/leastSquare/)
-- 
+  
 - Source Code : [Code](https://github.com/prateek-kalwar-95/leastSquare)
 
   
