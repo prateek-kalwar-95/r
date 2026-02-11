@@ -14,9 +14,9 @@ Each solution includes source code and an interactive visualization hosted on Gi
 ---
 
 ## Medium Test Solutions
-- Brownian Motion in a Circle : [Github Pages Link](https://prateek-kalwar-95.github.io/brownian_motion_in_Circle/)
+- Brownian Motion in a Circle : [Github Pages Link](https://prateek-kalwar-95.github.io/brownian-motion/)
 
-- Source Code : [Brownian.R](https://github.com/prateek-kalwar-95/brownian_motion_in_Circle/blob/main/Brownian.R)
+- Source Code : [Brownian.R](https://github.com/prateek-kalwar-95/brownian-motion/blob/main/Brownian.R)
 
 ---
 
