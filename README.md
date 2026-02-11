@@ -9,7 +9,7 @@ Each solution includes source code and an interactive visualization hosted on Gi
 
 - Coin Flip Simulation Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/flip_coin/)
 
-- Source Code : [flipACoin.R](https://github.com/prateek-kalwar-95/flip_coin/blob/main/flip_coin.R)
+- Source Code : [flip_coin.R](https://github.com/prateek-kalwar-95/flip_coin/blob/main/flip_coin.R)
 
 ---
 
@@ -27,7 +27,7 @@ Each solution includes source code and an interactive visualization hosted on Gi
 ---
 - Least Square Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/leastSquare/)
   
-- Source Code : [Code](https://github.com/prateek-kalwar-95/leastSquare.R)
+- Source Code : [leastSquare.R](https://github.com/prateek-kalwar-95/blob/main/leastSquare.R)
 
   
 ## Medium-Hard Test Solution
