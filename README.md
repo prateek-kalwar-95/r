@@ -9,14 +9,14 @@ Each solution includes source code and an interactive visualization hosted on Gi
 
 - Coin Flip Simulation Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/flip_coin/)
 
-- Source Code : [flipACoin.R](https://github.com/prateek-kalwar-95/flip_coin/blob/main/flipACoin.R)
+- Source Code : [flipACoin.R](https://github.com/prateek-kalwar-95/flip_coin/blob/main/flip_coin.R)
 
 ---
 
 ## Medium Test Solutions
 - Brownian Motion in a Circle : [Github Pages Link](https://prateek-kalwar-95.github.io/brownian-motion/)
 
-- Source Code : [Brownian.R](https://github.com/prateek-kalwar-95/brownian-motion/blob/main/Brownian.R)
+- Source Code : [Brownian.R](https://github.com/prateek-kalwar-95/brownian-motion/blob/main/brownian-motion.R)
 
 ---
 
@@ -27,7 +27,7 @@ Each solution includes source code and an interactive visualization hosted on Gi
 ---
 - Least Square Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/leastSquare/)
   
-- Source Code : [Code](https://github.com/prateek-kalwar-95/leastSquare)
+- Source Code : [Code](https://github.com/prateek-kalwar-95/leastSquare.R)
 
   
 ## Medium-Hard Test Solution
