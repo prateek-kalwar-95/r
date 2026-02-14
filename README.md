@@ -27,7 +27,7 @@ Each solution includes source code and an interactive visualization hosted on Gi
 ---
 - Least Square Visualization : [Github Pages Link](https://prateek-kalwar-95.github.io/leastSquare/)
   
-- Source Code : [leastSquare.R](https://github.com/prateek-kalwar-95/blob/main/leastSquare.R)
+- Source Code : [leastSquare.R](https://github.com/prateek-kalwar-95/leastSquare/blob/main/leastSquare.R)
 
   
 ## Medium-Hard Test Solution
