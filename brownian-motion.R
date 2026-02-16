@@ -1,4 +1,6 @@
-library(ggplot2)
+if ("package:ggplot2" %in% search()) {
+  detach("package:ggplot2", unload = TRUE)
+}
 library(animint2)
 
 set.seed(101)
