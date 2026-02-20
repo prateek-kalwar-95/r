@@ -165,11 +165,12 @@ p <- ggplot() +
 viz <- animint(
   coin = p,
   time = list(variable = "toss", ms = 300),
-  selector = list(caption = list(
-    update = function(toss) {
-      paste("Number of Tosses :", toss)
-    }
-  ))
+  # selector = list(caption = list(
+  #   update = function(toss) {
+  #     paste("Number of Tosses :", toss)
+  #   }
+  # ))
+  title = "Coin Flip Frequency"
 )
 
 animint2dir(viz, out.dir = "coin-flip", open.browser = TRUE)
