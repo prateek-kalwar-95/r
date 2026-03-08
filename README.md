@@ -36,6 +36,13 @@ Each solution includes source code and an interactive visualization hosted on Gi
 
 ---
 
+## Hard Test Solution
+- Video Link: https://youtu.be/InXFuJtqTck
+- PR link: [WorldBank visualization](https://github.com/animint/animint2/pull/297)
+
+---
+- Video Link: https://vimeo.com/1167167934/9a451ec913
+- PR link: [Flip_Coin](https://github.com/animint/animint2/pull/302)
 
 
 
